@@ -22,7 +22,7 @@ import "aos/dist/aos.css";
 const { Footer } = Layout;
 
 const Wrapper = styled.div`
-  background: #efebe9;
+  background: #e9f5f8;
   background-image: url(${GroovePaper});
   width: 100%;
 `;
@@ -58,13 +58,13 @@ const IndexPage = () => {
       <Share />
       <Footer
         style={{
-          background: "#D7CCC8",
+          background: "#bcdfeb",
           backgroundImage: `url(${GroovePaper})`,
           opacity: 0.6,
           textAlign: "center",
         }}
       >
-        Copyright © 2022 Shin Jooyoung
+        Cheonuk ❤ Jinyoung
       </Footer>
     </Wrapper>
   );

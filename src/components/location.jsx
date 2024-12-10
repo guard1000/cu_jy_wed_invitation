@@ -49,8 +49,8 @@ const Location = () => {
     const inlineScript = document.createTextNode(`new daum.roughmap.Lander({
     "timestamp" : "1733392898587",
     "key" : "2mfja",
-    "mapWidth" : "640",
-    "mapHeight" : "360"
+    "mapWidth" : "720",
+    "mapHeight" : "420"
   }).render();`);
     scriptTag.appendChild(inlineScript);
     document.body.appendChild(scriptTag);
@@ -108,15 +108,19 @@ const Location = () => {
         CCMM빌딩 12층 컨벤션홀
         <br />
         <br />
-        <Title>버스 이용시</Title>
+        <Title>🚌 버스 이용시 🚌</Title> 
         <br />
         <br />
-        일반버스 10, 11-1, 11-2, 83, 88, 510 여의도공원 환승센터 하차
+        일반버스: 10, 11-1, 11-2, 83, 88, 510, 수정예정
         <br />
-        간선버스 261, 461, 463, 753 여의도 순복음교회 하차
+        여의도공원 환승센터 하차
+        <br />
+        간선버스: 261, 461, 463, 753 
+        <br />
+        여의도 순복음교회 하차
         <br />
         <br />
-        <Title>지하철 이용시</Title>
+        <Title>🚇 지하철 이용시 🚇</Title>
         <br />
         <br />
         5호선 여의나루역 하차 (1번 출구 도보 10분)
