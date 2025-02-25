@@ -22,7 +22,7 @@ import "aos/dist/aos.css";
 const { Footer } = Layout;
 
 const Wrapper = styled.div`
-  background: #e9f5f8;
+  background: #efebe9;
   background-image: url(${GroovePaper});
   width: 100%;
 `;
@@ -58,7 +58,7 @@ const IndexPage = () => {
       <Share />
       <Footer
         style={{
-          background: "#bcdfeb",
+          background: "#D7CCC8",
           backgroundImage: `url(${GroovePaper})`,
           opacity: 0.6,
           textAlign: "center",

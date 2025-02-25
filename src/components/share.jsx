@@ -44,8 +44,8 @@ const KakaoTalkShareButton = styled(Button)`
 `;
 
 const LinkShareButton = styled(Button)`
-  background-color: rgba(168,214,229, 0.2);
-  border-color: rgba(168,214,229, 0.2) !important;
+  background-color: rgba(217, 125, 131, 0.2);
+  border-color: rgba(217, 125, 131, 0.2) !important;
   color: var(--title-color) !important;
   font-weight: 400 !important;
   align-item: center;
