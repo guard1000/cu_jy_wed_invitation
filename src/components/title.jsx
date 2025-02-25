@@ -10,7 +10,7 @@ import BackgroundVideo from "../assets/BackgroundVideo.mp4";
 import GroovePaper from "../assets/GroovePaper.png";
 
 const Layout = styled.div`
-  width: 70%;
+  width: 90%;
   overflow: hidden;
   margin: 0 auto;
 `;

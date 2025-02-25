@@ -5,7 +5,7 @@ import Flower from "../assets/flower2.png";
 
 const Wrapper = styled.div`
   padding-top: 42px;
-  width: 70%;
+  width: 90%;
   margin: 0 auto;
 `;
 
@@ -105,7 +105,7 @@ const Location = () => {
       <Content>
         서울특별시 영등포구 여의도공원로 101
         <br />
-        CCMM빌딩 12층 컨벤션홀
+        CCMM빌딩 12층 루나미엘레 컨벤션홀
         <br />
         <br />
         <Title>🚌 버스 이용시 🚌</Title> 

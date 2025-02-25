@@ -22,7 +22,7 @@ import {
 const Wrapper = styled.div`
   padding-top: 42px;
   padding-bottom: 18px;
-  width: 70%;
+  width: 90%;
   margin: 0 auto;
   text-align: center;
 `;
